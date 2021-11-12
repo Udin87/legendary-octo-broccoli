@@ -1,3 +1,4 @@
 sample text
 new line
 new line 2
+new line 5
