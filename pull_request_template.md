@@ -5,3 +5,4 @@ Checklist
 * B
 * C
 * D
+* E
